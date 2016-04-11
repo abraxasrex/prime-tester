@@ -1,0 +1,16 @@
+{
+  "name": "mocha-chai",
+  "authors": [
+    "abraxasrex@github.com"
+  ],
+  "description": "testing tutorial",
+  "main": "index.js",
+  "keywords": [
+    "testing",
+    "mocha",
+    "chai"
+  ],
+  "license": "none",
+  "homepage": "abraxasrex.github.io",
+  "private": true
+}
